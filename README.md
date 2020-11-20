@@ -9,6 +9,8 @@
 
 本项目希望能给想要开发模拟登陆教务在线的朋友提供一个思路，项目中相关具体链接出于网络安全的考虑已经删除，如果校友需要欢迎联系，其他学校的朋友请自行抓包分析。
 
+本项目前端仓库：[https://github.com/wintermorn1ng/Course-Schedule-HRBUST-H5APP](https://github.com/wintermorn1ng/Course-Schedule-HRBUST-H5APP)
+
 # 开源框架
 
 |项目名称|项目地址|
